@@ -1,0 +1,104 @@
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+ul,ol{
+	list-style-type: none;
+}
+a{
+	color: #666;
+	text-decoration: none;
+}
+#nav{
+	height: 60px;
+	border-style: solid;
+	border-color: #000000;
+	border-width: 5px;
+	margin: 0 auto;
+}
+#nav img{
+	width: 30px;
+	height: 30px;
+}
+#nav li{
+	float: left;
+	margin: 0px 15px;
+}
+#nav li a{
+	color: #000000;
+	font-size: 24px;
+	font-family: "楷体";
+}
+#nav .right{
+	float: right;
+	height: 60px;
+	background-color: #E5E5E5;
+}
+#nav .right li a{
+	font-size: 16px;
+	font-family: "楷体";
+}
+#body{
+	height: 850px;
+	border-style: solid;
+	border-color: #000000;
+	border-width: 5px;
+	border-top: none;
+	margin: 0 auto;
+}
+#body div:first-child img{
+	float: right;
+	width: 50%;
+	height: 850px;
+}
+#body .kong1{
+    height: 300px;
+}
+#body .kong2{
+	height: 20px;
+}
+#body .mulu{
+	width: 50%;
+	height: 800px;
+	float: left;
+}
+#body .mulu1{
+	float: left;
+	width: 280px;
+	height: 500px;
+}
+#body .shuli{
+	float: right;
+	 margin:0 auto;
+	 width:20px;
+	 line-height:20px;
+	 font-family: "楷体";
+}
+#body .kong2 img:first-child{
+	float: right;
+	height: 20px;
+	width: 20px;
+}
+#body .mulu2{
+	float: right;
+	width: 620px;
+	height: 500px;
+}
+#body h1{
+	font-family: "楷体";
+}
+#body ul li:first-child{
+	font-size: 30px;
+	font-family: "楷体";
+	color:#000000;
+    line-height: 80px;
+    text-align:left;
+}
+#body li a{
+	font-size: 24px;
+	font-family: "楷体";
+    color: #000000;
+    line-height: 30px;
+}	
